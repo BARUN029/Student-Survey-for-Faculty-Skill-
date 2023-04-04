@@ -1,5 +1,3 @@
-# Student-Survey-for-Faculty-Skill-
-Machine Learning Project
 # -Student-Survey-for-Faculty-Skill
 Machine Learning project 
 # ML-project
